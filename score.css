@@ -1,0 +1,36 @@
+.winner {
+  color: #17aa1c;
+}
+.container {
+  margin: 0 auto;
+  width: 50%;
+  background: rgb(153, 214, 179);
+  text-align: center;
+  padding: 5%;
+  border-radius: 15px;
+}
+input {
+  width: 60px;
+  border: 2px solid rgb(180, 55, 55);
+}
+h1 {
+  color: rgb(253, 253, 252);
+  background: rgb(1, 53, 77);
+
+  align-items: center;
+}
+#one {
+  background: rgb(250, 120, 120);
+}
+#two {
+  background: rgb(136, 247, 136);
+}
+#reset {
+  background: gray;
+}
+button {
+  border-radius: 5px;
+}
+button:hover {
+  cursor: pointer;
+}
